@@ -1,0 +1,14 @@
+C:\Users\brach\source\repos\MemoryManagementInDS\MemoryManagementInDS\bin\Debug\MemoryManagementInDS.exe.config
+C:\Users\brach\source\repos\MemoryManagementInDS\MemoryManagementInDS\bin\Debug\MemoryManagementInDS.exe
+C:\Users\brach\source\repos\MemoryManagementInDS\MemoryManagementInDS\bin\Debug\MemoryManagementInDS.pdb
+C:\Users\brach\source\repos\MemoryManagementInDS\MemoryManagementInDS\obj\Debug\MemoryManagementInDS.csproj.AssemblyReference.cache
+C:\Users\brach\source\repos\MemoryManagementInDS\MemoryManagementInDS\obj\Debug\MemoryManagementInDS.csproj.CoreCompileInputs.cache
+C:\Users\brach\source\repos\MemoryManagementInDS\MemoryManagementInDS\obj\Debug\MemoryManagementInDS.exe
+C:\Users\brach\source\repos\MemoryManagementInDS\MemoryManagementInDS\obj\Debug\MemoryManagementInDS.pdb
+C:\Users\brach\source\repos\MemoryManagementInDS\.git\MemoryManagementInDS\bin\Debug\MemoryManagementInDS.exe.config
+C:\Users\brach\source\repos\MemoryManagementInDS\.git\MemoryManagementInDS\bin\Debug\MemoryManagementInDS.exe
+C:\Users\brach\source\repos\MemoryManagementInDS\.git\MemoryManagementInDS\bin\Debug\MemoryManagementInDS.pdb
+C:\Users\brach\source\repos\MemoryManagementInDS\.git\MemoryManagementInDS\obj\Debug\MemoryManagementInDS.csproj.AssemblyReference.cache
+C:\Users\brach\source\repos\MemoryManagementInDS\.git\MemoryManagementInDS\obj\Debug\MemoryManagementInDS.csproj.CoreCompileInputs.cache
+C:\Users\brach\source\repos\MemoryManagementInDS\.git\MemoryManagementInDS\obj\Debug\MemoryManagementInDS.exe
+C:\Users\brach\source\repos\MemoryManagementInDS\.git\MemoryManagementInDS\obj\Debug\MemoryManagementInDS.pdb
