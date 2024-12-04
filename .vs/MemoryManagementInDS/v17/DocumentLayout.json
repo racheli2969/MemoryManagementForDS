@@ -14,16 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -42,9 +34,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\brach\\source\\repos\\MemoryManagementInDS\\MemoryManagementInDS\\Program.cs",
               "RelativeDocumentMoniker": "MemoryManagementInDS\\Program.cs",
-              "ToolTip": "C:\\Users\\brach\\source\\repos\\MemoryManagementInDS\\MemoryManagementInDS\\Program.cs*",
-              "RelativeToolTip": "MemoryManagementInDS\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\brach\\source\\repos\\MemoryManagementInDS\\MemoryManagementInDS\\Program.cs",
+              "RelativeToolTip": "MemoryManagementInDS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T09:46:33.848Z",
               "EditorCaption": ""
