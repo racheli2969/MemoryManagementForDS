@@ -12,11 +12,11 @@ namespace MemoryManagementInDS
             Week1.MeasureDifferentTypes();
             */
 
-            //Week2.MeasureStructMemory();
-            //Week2.MeasureStringMemory();
-            //Week2.TestStringBuilderMemory();
-           //Week2.TestRegularStringMemory();
-           Week2.TestObjectGeneration();
+           /* Week2.MeasureStructMemory();
+            Week2.MeasureStringMemory();
+            Week2.TestStringBuilderMemory();
+            Week2.TestRegularStringMemory();
+            Week2.TestObjectGeneration();*/
         }
 
     }
