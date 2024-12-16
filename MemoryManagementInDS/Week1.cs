@@ -1,13 +1,11 @@
 ﻿using System;
-using System.Runtime.Remoting.Contexts;
-using System.Threading;
 
 namespace MemoryManagementInDS
 {
     internal class Week1
     {
 
-        const int ARRAY_LENGTH = 1000;
+        const int ARRAY_LENGTH = 10;
 
         //1
         public static void ShowStructAndClassSemantics()
@@ -20,6 +18,7 @@ namespace MemoryManagementInDS
             pointClass1.x = 5;
             pointClass1.y = 6;
             Console.WriteLine(pointClass.ToString());//will print (5, 6)
+            Console.WriteLine(pointClass1.ToString());
 
             ModifyPointStruct();
         }
@@ -43,11 +42,10 @@ namespace MemoryManagementInDS
 
         static int RecursiveMethod(int depth, int localArraySize)
         {
-            byte[] localArray = new byte[localArraySize];
-            Console.WriteLine($"Current depth: {depth}");
-
             try
-            {
+            { 
+                byte[] localArray = new byte[localArraySize]; 
+                Console.WriteLine($"Current depth: {depth}");
                 return RecursiveMethod(depth + 1, localArraySize);
             }
             catch (StackOverflowException)
@@ -59,7 +57,7 @@ namespace MemoryManagementInDS
         //2
        public static void StackOverflowExperiment()
         {
-            int[] arraySizes = { 100, 1000, 10000 };
+            int[] arraySizes = { 200 };//, 1000, 10000 };
 
             foreach (int size in arraySizes)
             {
@@ -72,6 +70,10 @@ namespace MemoryManagementInDS
                 catch (StackOverflowException)
                 {
                     Console.WriteLine("Stack overflow occurred!");
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("error");
                 }
             }
         }
@@ -109,7 +111,7 @@ namespace MemoryManagementInDS
                 string[] stringArray = new string[ARRAY_LENGTH];
                 for (int i = 0; i < stringArray.Length; i++)
                 {
-                    stringArray[i] = "example";
+                    stringArray[i] = $"e{i}";
                 }
             });
             Console.WriteLine("Measuring struct array:");

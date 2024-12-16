@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\brach\\source\\repos\\MemoryManagementInDS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47D378EF-4DD0-49EA-9C03-3395BFDE9B8A}|MemoryManagementInDS\\MemoryManagementInDS.csproj|c:\\users\\brach\\source\\repos\\memorymanagementinds\\memorymanagementinds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47D378EF-4DD0-49EA-9C03-3395BFDE9B8A}|MemoryManagementInDS\\MemoryManagementInDS.csproj|c:\\users\\brach\\source\\repos\\memorymanagementinds\\memorymanagementinds\\point\\pointclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D378EF-4DD0-49EA-9C03-3395BFDE9B8A}|MemoryManagementInDS\\MemoryManagementInDS.csproj|solutionrelative:memorymanagementinds\\point\\pointclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D378EF-4DD0-49EA-9C03-3395BFDE9B8A}|MemoryManagementInDS\\MemoryManagementInDS.csproj|c:\\users\\brach\\source\\repos\\memorymanagementinds\\memorymanagementinds\\week1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D378EF-4DD0-49EA-9C03-3395BFDE9B8A}|MemoryManagementInDS\\MemoryManagementInDS.csproj|solutionrelative:memorymanagementinds\\week1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D378EF-4DD0-49EA-9C03-3395BFDE9B8A}|MemoryManagementInDS\\MemoryManagementInDS.csproj|c:\\users\\brach\\source\\repos\\memorymanagementinds\\memorymanagementinds\\point\\pointstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D378EF-4DD0-49EA-9C03-3395BFDE9B8A}|MemoryManagementInDS\\MemoryManagementInDS.csproj|solutionrelative:memorymanagementinds\\point\\pointstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D378EF-4DD0-49EA-9C03-3395BFDE9B8A}|MemoryManagementInDS\\MemoryManagementInDS.csproj|c:\\users\\brach\\source\\repos\\memorymanagementinds\\memorymanagementinds\\week2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D378EF-4DD0-49EA-9C03-3395BFDE9B8A}|MemoryManagementInDS\\MemoryManagementInDS.csproj|solutionrelative:memorymanagementinds\\week2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D378EF-4DD0-49EA-9C03-3395BFDE9B8A}|MemoryManagementInDS\\MemoryManagementInDS.csproj|C:\\Users\\brach\\source\\repos\\MemoryManagementInDS\\memorymanagementinds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47D378EF-4DD0-49EA-9C03-3395BFDE9B8A}|MemoryManagementInDS\\MemoryManagementInDS.csproj|solutionrelative:memorymanagementinds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -18,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,34 +50,78 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PointClass.cs",
+              "DocumentMoniker": "C:\\Users\\brach\\source\\repos\\MemoryManagementInDS\\MemoryManagementInDS\\Point\\PointClass.cs",
+              "RelativeDocumentMoniker": "MemoryManagementInDS\\Point\\PointClass.cs",
+              "ToolTip": "C:\\Users\\brach\\source\\repos\\MemoryManagementInDS\\MemoryManagementInDS\\Point\\PointClass.cs",
+              "RelativeToolTip": "MemoryManagementInDS\\Point\\PointClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:03:03.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PointStruct.cs",
+              "DocumentMoniker": "C:\\Users\\brach\\source\\repos\\MemoryManagementInDS\\MemoryManagementInDS\\Point\\PointStruct.cs",
+              "RelativeDocumentMoniker": "MemoryManagementInDS\\Point\\PointStruct.cs",
+              "ToolTip": "C:\\Users\\brach\\source\\repos\\MemoryManagementInDS\\MemoryManagementInDS\\Point\\PointStruct.cs",
+              "RelativeToolTip": "MemoryManagementInDS\\Point\\PointStruct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:02:47.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Week2.cs",
+              "DocumentMoniker": "C:\\Users\\brach\\source\\repos\\MemoryManagementInDS\\MemoryManagementInDS\\Week2.cs",
+              "RelativeDocumentMoniker": "MemoryManagementInDS\\Week2.cs",
+              "ToolTip": "C:\\Users\\brach\\source\\repos\\MemoryManagementInDS\\MemoryManagementInDS\\Week2.cs",
+              "RelativeToolTip": "MemoryManagementInDS\\Week2.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:14:27.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Week1.cs",
+              "DocumentMoniker": "C:\\Users\\brach\\source\\repos\\MemoryManagementInDS\\MemoryManagementInDS\\Week1.cs",
+              "RelativeDocumentMoniker": "MemoryManagementInDS\\Week1.cs",
+              "ToolTip": "C:\\Users\\brach\\source\\repos\\MemoryManagementInDS\\MemoryManagementInDS\\Week1.cs",
+              "RelativeToolTip": "MemoryManagementInDS\\Week1.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAHkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:01:06.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Week3.cs",
               "DocumentMoniker": "C:\\Users\\brach\\source\\repos\\MemoryManagementInDS\\MemoryManagementInDS\\Week3.cs",
               "RelativeDocumentMoniker": "MemoryManagementInDS\\Week3.cs",
-              "ToolTip": "C:\\Users\\brach\\source\\repos\\MemoryManagementInDS\\MemoryManagementInDS\\Week3.cs*",
-              "RelativeToolTip": "MemoryManagementInDS\\Week3.cs*",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAgwCYAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\brach\\source\\repos\\MemoryManagementInDS\\MemoryManagementInDS\\Week3.cs",
+              "RelativeToolTip": "MemoryManagementInDS\\Week3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAApwCEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T19:48:24.61Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\brach\\source\\repos\\MemoryManagementInDS\\MemoryManagementInDS\\Program.cs",
               "RelativeDocumentMoniker": "MemoryManagementInDS\\Program.cs",
-              "ToolTip": "C:\\Users\\brach\\source\\repos\\MemoryManagementInDS\\MemoryManagementInDS\\Program.cs*",
-              "RelativeToolTip": "MemoryManagementInDS\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\brach\\source\\repos\\MemoryManagementInDS\\MemoryManagementInDS\\Program.cs",
+              "RelativeToolTip": "MemoryManagementInDS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T09:46:33.848Z",
               "EditorCaption": ""
