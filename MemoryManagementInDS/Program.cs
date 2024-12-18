@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace MemoryManagementInDS
 {
@@ -19,11 +20,12 @@ namespace MemoryManagementInDS
              Week2.TestObjectGeneration();*/
 
 
-            int[] array = { 5, 3, 9, 1, 6 };
-            Week3.MaxCalculator maxCalculator = new Week3.MaxCalculator();
-            Action<int> maxDelegate = maxCalculator.UpdateMax; 
-            Week3.ProcessArray(array, maxDelegate);
-            Console.WriteLine($"Max of array: {maxCalculator.GetMax()}");
+            /* int[] array = { 5, 3, 9, 1, 6 };
+             Week3.MaxCalculator maxCalculator = new Week3.MaxCalculator();
+             Action<int> maxDelegate = maxCalculator.UpdateMax; 
+             Week3.ProcessArray(array, maxDelegate);
+             Console.WriteLine($"Max of array: {maxCalculator.GetMax()}");*/
+
         }
 
     }

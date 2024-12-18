@@ -50,6 +50,8 @@
     <Compile Include="Week1.cs" />
     <Compile Include="Week2.cs" />
     <Compile Include="Week3.cs" />
+    <Compile Include="Week_4\OperationTable.cs" />
+    <Compile Include="Week_4\Sort.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
