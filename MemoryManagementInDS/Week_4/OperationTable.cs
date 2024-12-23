@@ -11,20 +11,32 @@ namespace MemoryManagementInDS.Week_4
         Operation op;
         private T[,] results;
 
-        public OperationTable(List<T> _row_values, List<T> _col_values, Operation _op)
+        public OperationTable(List<T> rowValues, List<T> colValues, Operation operation)
         {
-            op = _op;
-            // rows and columns changein calculation
-            results = new T[ _col_values.Count, _row_values.Count ];
+            if (rowValues == null || colValues == null)
+                throw new ArgumentNullException("Row and column values cannot be null.");
 
-            for (int row = 0; row < _col_values.Count; row++)
+            if (rowValues.Count == 0 || colValues.Count == 0)
+                throw new ArgumentException("Row and column values cannot be empty.");
+
+            op = operation ?? throw new ArgumentNullException(nameof(operation));
+            results = new T[colValues.Count + 1, rowValues.Count + 1];
+
+            // Fill operation results
+            for (int row = 1; row <= colValues.Count; row++)
             {
-                for (int col = 0; col < _row_values.Count; col++)
+                for (int col = 1; col <= rowValues.Count; col++)
                 {
-                    results[row, col] = op(_row_values[col], _col_values[row]);
+                    results[row, col] = op(rowValues[col - 1], colValues[row - 1]);
                 }
             }
+
+            // Fill headers
+            for (int i = 1; i <= colValues.Count; i++) results[i, 0] = colValues[i - 1];
+            for (int i = 1; i <= rowValues.Count; i++) results[0, i] = rowValues[i - 1];
         }
+
+        public T[,] Results => (T[,])results.Clone();
 
         public override string ToString()
         {
